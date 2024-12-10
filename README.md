@@ -10,7 +10,7 @@
 - 🌱 I’m currently learning **Flutter** and **Cloud Computing**
 - 💬 Ask me about **Full Stack Web Development**
 - 📫 How to reach me: **nranjan@ualberta.ca**
-
+- note: Most of my contributions may not appear on the contributions graph due to a mismatch between the email configured on my local Git setup and my GitHub account.
 ---
 
 
